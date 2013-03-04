@@ -179,7 +179,14 @@
 
     <!--图片-->
 
-    <div id="photo_">我的相册</div>
+    <div id="photo_">我的相册
+    <br/>
+
+        <div>div-1</div>
+        <div>div-2</div>
+        <div>div-3</div>
+        <div>div-4</div>
+    </div>
 
 
     <!--网址收藏-->
